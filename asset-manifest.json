@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-deploy/static/js/main.2e9e7597.chunk.js",
-    "main.js.map": "/react-deploy/static/js/main.2e9e7597.chunk.js.map",
+    "main.css": "/react-deploy/static/css/main.39892e4f.chunk.css",
+    "main.js": "/react-deploy/static/js/main.b76c710e.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.b76c710e.chunk.js.map",
     "runtime-main.js": "/react-deploy/static/js/runtime-main.3e11c617.js",
     "runtime-main.js.map": "/react-deploy/static/js/runtime-main.3e11c617.js.map",
-    "static/js/2.b1b31c97.chunk.js": "/react-deploy/static/js/2.b1b31c97.chunk.js",
-    "static/js/2.b1b31c97.chunk.js.map": "/react-deploy/static/js/2.b1b31c97.chunk.js.map",
+    "static/css/2.48db8b0f.chunk.css": "/react-deploy/static/css/2.48db8b0f.chunk.css",
+    "static/js/2.b653aabc.chunk.js": "/react-deploy/static/js/2.b653aabc.chunk.js",
+    "static/js/2.b653aabc.chunk.js.map": "/react-deploy/static/js/2.b653aabc.chunk.js.map",
     "index.html": "/react-deploy/index.html",
-    "precache-manifest.8b10963e5b6f03e67d713a64c49d2358.js": "/react-deploy/precache-manifest.8b10963e5b6f03e67d713a64c49d2358.js",
+    "precache-manifest.7467ad48becdc97c758db909fb312980.js": "/react-deploy/precache-manifest.7467ad48becdc97c758db909fb312980.js",
     "service-worker.js": "/react-deploy/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-deploy/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b1b31c97.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.b1b31c97.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-deploy/static/media/logo.5d5d9eef.svg"
+    "static/css/2.48db8b0f.chunk.css.map": "/react-deploy/static/css/2.48db8b0f.chunk.css.map",
+    "static/css/main.39892e4f.chunk.css.map": "/react-deploy/static/css/main.39892e4f.chunk.css.map",
+    "static/js/2.b653aabc.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.b653aabc.chunk.js.LICENSE.txt",
+    "static/media/about.style.css": "/react-deploy/static/media/Ganesha.ba47c960.jpg",
+    "static/media/business.svg": "/react-deploy/static/media/business.05f6c2d6.svg",
+    "static/media/menu.svg": "/react-deploy/static/media/menu.951be074.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3e11c617.js",
-    "static/js/2.b1b31c97.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2e9e7597.chunk.js"
+    "static/css/2.48db8b0f.chunk.css",
+    "static/js/2.b653aabc.chunk.js",
+    "static/css/main.39892e4f.chunk.css",
+    "static/js/main.b76c710e.chunk.js"
   ]
 }
